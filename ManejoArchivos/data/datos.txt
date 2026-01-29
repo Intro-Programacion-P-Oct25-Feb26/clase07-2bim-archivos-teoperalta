@@ -1,3 +1,6 @@
 1;Melissa;Hawkins;650.2
 2;Steven;Harmon;700.2
-3;José;Alvarado;500.2
+3;José;Alvarado;500.2Mateo, 2334433, GHO-432, MER
+Pedro, 34311, LOA-766, BMW
+Mateo, 234422, Gha, qjs
+Pedro, 9837722, Loh, ehd

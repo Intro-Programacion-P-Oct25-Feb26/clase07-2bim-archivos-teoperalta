@@ -36,7 +36,7 @@ public class Estadistica {
                     ArrayList<String> linea_partes = new ArrayList<>(lista);
 
                     if (linea_partes.size() != 5) {
-                        throw new Exception("Columnas incompletas)");
+                        throw new Exception("Columnas incompletas");
                     }
                     String variable = linea_partes.get(2); 
 
