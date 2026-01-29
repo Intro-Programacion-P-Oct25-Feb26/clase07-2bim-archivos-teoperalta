@@ -12,11 +12,9 @@ import java.util.Scanner;
  * @author Usuario iTC
  */
 public class Principal {
-     public static void main(String args[]) {
+    public static void main(String args[]) {
         Scanner entrada = new Scanner(System.in);
         String cadenaFinal;
-
-          entrada.nextLine(); 
   
 
         boolean bandera = true;
