@@ -33,10 +33,10 @@ public class Procesos {
 
             }
             double promedio = suma / contador;
-            System.out.printf("%.2f", promedio);
+            System.out.printf("%.2f\n", promedio);
 
         } catch (Exception e) {
-            System.out.println("Error al leer del archivo.");
+            System.out.printf("Error al leer del archivo.\n");
         }
 
     }
